@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, eu sou Eduardo Diniz</h1>
-<h3 align="center">Um apaixonado em desenvolvimento de APIs backend</h3>
+<h3 align="center">Um apaixonado em desenvolvimento</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinizeduardo&label=Profile%20views&color=0e75b6&style=flat" alt="dinizeduardo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinizeduardo" alt="dinizeduardo" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando no projeto [Orange Talents](https://www.zup.com.br/orange-talents)
+- 🔭 Atualmente estou trabalhando no projeto Grupo Boticario
 
-- 🌱 Atualmente estou aprendendo **Java, Spring boot e Kotlin**
+- 🌱 Atualmente estou atuando com **Java, Spring boot e Kotlin**
 
 - 📫 Como entrar em contato **eduardo.diniz987@gmail.com**
 
